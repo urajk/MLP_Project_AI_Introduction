@@ -1,0 +1,108 @@
+
+===== EXPERIMENT =====
+Topology: (10,)
+Learning rate: 0.001
+Split: 20.0% for testing | 80.0% for training
+Accuracy: 98.844
+
+===== EXPERIMENT =====
+Topology: (20, 10)
+Learning rate: 0.001
+Split: 20.0% for testing | 80.0% for training
+Accuracy: 98.844
+
+===== EXPERIMENT =====
+Topology: (10,)
+Learning rate: 0.02
+Split: 20.0% for testing | 80.0% for training
+Accuracy: 97.977
+
+===== EXPERIMENT =====
+Topology: (20, 10)
+Learning rate: 0.02
+Split: 20.0% for testing | 80.0% for training
+Accuracy: 99.422
+
+===== EXPERIMENT =====
+Topology: (10,)
+Learning rate: 0.1
+Split: 20.0% for testing | 80.0% for training
+Accuracy: 100.0
+
+===== EXPERIMENT =====
+Topology: (20, 10)
+Learning rate: 0.1
+Split: 20.0% for testing | 80.0% for training
+Accuracy: 96.243
+
+===== EXPERIMENT =====
+Topology: (10,)
+Learning rate: 0.001
+Split: 20.0% for testing | 80.0% for training
+Accuracy: 98.844
+
+===== EXPERIMENT =====
+Topology: (20, 10)
+Learning rate: 0.001
+Split: 20.0% for testing | 80.0% for training
+Accuracy: 98.844
+
+===== EXPERIMENT =====
+Topology: (10,)
+Learning rate: 0.02
+Split: 20.0% for testing | 80.0% for training
+Accuracy: 97.977
+
+===== EXPERIMENT =====
+Topology: (20, 10)
+Learning rate: 0.02
+Split: 20.0% for testing | 80.0% for training
+Accuracy: 99.422
+
+===== EXPERIMENT =====
+Topology: (10,)
+Learning rate: 0.1
+Split: 20.0% for testing | 80.0% for training
+Accuracy: 100.0
+
+===== EXPERIMENT =====
+Topology: (20, 10)
+Learning rate: 0.1
+Split: 20.0% for testing | 80.0% for training
+Accuracy: 96.243
+
+===== EXPERIMENT =====
+Topology: (10,)
+Learning rate: 0.001
+Split: 20.0% for testing | 80.0% for training
+Accuracy: 98.844
+
+===== EXPERIMENT =====
+Topology: (20, 10)
+Learning rate: 0.001
+Split: 20.0% for testing | 80.0% for training
+Accuracy: 98.844
+
+===== EXPERIMENT =====
+Topology: (10,)
+Learning rate: 0.02
+Split: 20.0% for testing | 80.0% for training
+Accuracy: 97.977
+
+===== EXPERIMENT =====
+Topology: (20, 10)
+Learning rate: 0.02
+Split: 20.0% for testing | 80.0% for training
+Accuracy: 99.422
+
+===== EXPERIMENT =====
+Topology: (10,)
+Learning rate: 0.1
+Split: 20.0% for testing | 80.0% for training
+Accuracy: 100.0
+
+===== EXPERIMENT =====
+Topology: (20, 10)
+Learning rate: 0.1
+Split: 20.0% for testing | 80.0% for training
+Accuracy: 96.243
