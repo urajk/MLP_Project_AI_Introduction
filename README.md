@@ -10,4 +10,3 @@ The requirements of the project were loss curves of 18 different topologies, as 
 As a result the accuracy of every model has to be documented for every topology.
 
 Dataset Link: https://archive.ics.uci.edu/dataset/19/car+evaluation
-Report attached in docs/
